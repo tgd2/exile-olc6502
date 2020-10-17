@@ -9,15 +9,22 @@ I've added this as a public repository, in case others find it useful/interestin
 
 Many thanks to everyone who has produced the excellent resources that I have used for this project, including:
 
+
 Exile disassemblies:
-  http://www.level7.org.uk/miscellany/exile-disassembly.txt
-  https://github.com/tom-seddon/exile_disassembly
+
+http://www.level7.org.uk/miscellany/exile-disassembly.txt
+
+https://github.com/tom-seddon/exile_disassembly
+
 
 One Lone Coder Pixel Game Engine:
-  https://github.com/OneLoneCoder/olcPixelGameEngine
+
+https://github.com/OneLoneCoder/olcPixelGameEngine
   
+
 Javidx9's 6502 project (and accompanying YouTube videos):
-  https://github.com/OneLoneCoder/olcNES
+
+https://github.com/OneLoneCoder/olcNES
 
 
 TGD2
