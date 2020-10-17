@@ -26,5 +26,9 @@ Javidx9's 6502 project (and accompanying YouTube videos):
 
 https://github.com/OneLoneCoder/olcNES
 
+A few additional notes, and limitations:
+  - There are no sounds.  This wasn't an area of focus for me, but I am missing them!
+  - I'm not sure that the earthquake would be triggered - I believe this requires the interrupt to be implemented, which I haven't done
+  - I've made a small number of "hacky" changes to both the olc6502 and the PGE - I've marked these with TD
 
 TGD2
