@@ -26,6 +26,10 @@ Javidx9's 6502 project (and accompanying YouTube videos):
 
 https://github.com/OneLoneCoder/olcNES
 
+Information about BBC's graphic modes:
+
+https://www.dfstudios.co.uk/articles/retro-computing/bbc-micro-screen-formats/
+
 A few additional notes, and limitations:
   - There are no sounds.  This wasn't an area of focus for me, but I am missing them!
   - I'm not sure that the earthquake would be triggered - I believe this requires the interrupt to be implemented, which I haven't done
