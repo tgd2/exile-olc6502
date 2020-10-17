@@ -119,7 +119,7 @@ void olc6502::clock()
 		SetFlag(U, true); // Needed?
 		pc++;
 
-		if (pc == 0x1F66) {  // Tom - temporary to fix VDU trap
+		if (pc == 0x1F66) {  // TD - temporary to fix VDU trap
 			SetFlag(C, 1);
 		}
 
