@@ -3,7 +3,7 @@ A minimalist emulation of Exile on the BBC Micro using Javidx9's olc 6502 emulat
 
 One of my projects during lockdown in 2020 has been to learn 6502 assembly, and to understand the code from one of my favourite games of all time - Exile on the BBC.
 
-To help with this, I have built a BBC micro emulator (strictly it's just an Exile emulator).  I've been amazed at how little additional code is needed beyond the 6502 emulator.  Currently it's around 150 lines, and I know my screen drawing routine is still still pretty verbose, so I'm planning to streamline this further.
+To help with this, I have built a BBC micro emulator (strictly it's just an Exile emulator).  I've been amazed at how little additional code is needed beyond the 6502 emulator.  Currently it's around 95 lines, and I think the screen drawing routine could be streamlined further.
 
 I've added this as a public repository, in case others find it useful/interesting.  To use it, you will need to add a ram dump of Exile (Model B version).  I used the B-em emulator (http://b-em.bbcmicro.com/) to generate the ram dump.
 
