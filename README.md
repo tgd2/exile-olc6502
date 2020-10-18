@@ -11,19 +11,16 @@ Huge respect and thanks to Peter Irvin and Jeremy Smith for creating Exile.  I c
 
 Many thanks to everyone who has produced the excellent resources that I have used for this project, including:
 
-
 Exile disassemblies:
 
 http://www.level7.org.uk/miscellany/exile-disassembly.txt
 
 https://github.com/tom-seddon/exile_disassembly
 
-
 One Lone Coder Pixel Game Engine:
 
 https://github.com/OneLoneCoder/olcPixelGameEngine
   
-
 Javidx9's 6502 project (and accompanying YouTube videos):
 
 https://github.com/OneLoneCoder/olcNES
@@ -35,6 +32,7 @@ https://www.dfstudios.co.uk/articles/retro-computing/bbc-micro-screen-formats/
 A few additional notes, and limitations:
   - There are no sounds.  This wasn't an area of focus for me, but I am missing them!
   - I'm not sure that the earthquake would be triggered - I believe this requires the interrupt to be implemented, which I haven't done
+  - The keys repeat too quickly - eg, when firing gun.  Great for shooting quickly, but uses loads of energy
   - I've made a small number of "hacky" changes to both the olc6502 and the PGE - I've marked these with TD
 
 TGD
