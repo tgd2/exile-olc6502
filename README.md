@@ -7,6 +7,8 @@ To help with this, I have built a BBC micro emulator (strictly it's just an Exil
 
 I've added this as a public repository, in case others find it useful/interesting.  To use it, you will need to add a ram dump of Exile (Model B version).  I used the B-em emulator (http://b-em.bbcmicro.com/) to generate the ram dump.
 
+Huge respect and thanks to Peter Irvin and Jeremy Smith for creating Exile.  I cannot guess how many hours I spent immersed in this game, and it still amazes me how alive the world feels.
+
 Many thanks to everyone who has produced the excellent resources that I have used for this project, including:
 
 
@@ -35,4 +37,4 @@ A few additional notes, and limitations:
   - I'm not sure that the earthquake would be triggered - I believe this requires the interrupt to be implemented, which I haven't done
   - I've made a small number of "hacky" changes to both the olc6502 and the PGE - I've marked these with TD
 
-TGD2
+TGD
