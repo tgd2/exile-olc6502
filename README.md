@@ -5,7 +5,7 @@ One of my projects during lockdown in 2020 has been to learn 6502 assembly, and 
 
 To help with this, I have built a BBC micro emulator (strictly it's just an Exile emulator).  I've been amazed at how little additional code is needed beyond the 6502 emulator.  Currently it's around 95 lines, and I think the screen drawing routine could be streamlined further.
 
-I've added this as a public repository, in case others find it useful/interesting.  To use it, you will need to add a ram dump of Exile (Model B version).  I used the B-em emulator (http://b-em.bbcmicro.com/) to generate the ram dump.
+I've added this as a public repository, in case others find it useful/interesting.  To use it, you will need to add a ram dump of Exile (Model B version).  I used the B-em emulator (http://b-em.bbcmicro.com/) to generate the ram dump.  There is also an alternative version of main.cpp in the directory that parses the Exile disassembly directly, rather than using a ram dump.
 
 Huge respect and thanks to Peter Irvin and Jeremy Smith for creating Exile.  I cannot guess how many hours I spent immersed in this game, and it still amazes me how alive the world feels.
 
